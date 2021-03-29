@@ -36,13 +36,7 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
     <img alt="" title="" src="imgs/print1.png">
     <img alt="" title="" src="imgs/print2.png">
     <img alt="" title="" src="imgs/print3.png">
-    <img alt="" title="" src="imgs/print4.png">
-    <img alt="" title="" src="imgs/print5.png">
-    <img alt="" title="" src="imgs/print6.png">
-    <img alt="" title="" src="imgs/print7.png">
-    <img alt="" title="" src="imgs/print8.png">
-    <img alt="" title="" src="imgs/print9.png">
-    <img alt="" title="" src="imgs/print-insomnia.png">
+
 </p>
 
 Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração das versões web e mobile rodando localmente.
@@ -52,9 +46,6 @@ Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração da
 **&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
 
 **Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
-
-## Licença
-[MIT](https://github.com/christyanbrayan/be-the-hero/blob/master/LICENSE)
 
 ---
 
